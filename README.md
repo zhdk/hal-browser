@@ -1,3 +1,11 @@
+
+The MAdeK API Browser
+=====================
+
+This is a fork of the [hal-browser](https://github.com/mikekelly/hal-browser) 
+adopted for the [MAdeK Project](https://github.com/zhdk/madek). 
+
+
 HAL-browser
 ===========
 An API browser for the hal+json media type
